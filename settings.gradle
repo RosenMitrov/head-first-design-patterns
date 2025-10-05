@@ -1,2 +1,3 @@
 rootProject.name = 'head-frist-design-patterns'
+include 'strategy-pattern'
 
