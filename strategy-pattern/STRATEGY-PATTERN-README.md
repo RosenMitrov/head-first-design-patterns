@@ -22,3 +22,5 @@ and makes them interchangeable. Strategy lets the algorithm vary independently f
 * Most patterns allow some part of a system to vary independently of all other parts.
 * We often try to take what varies in a system and encapsulate it.
 * Patterns provide a shared language that can maximize the value of your communication with other developers.
+
+- [BACK TO DESIGN-PATTERNS-README.md](../DESIGN-PATTERNS-README.md)
