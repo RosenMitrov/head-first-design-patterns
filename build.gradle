@@ -28,6 +28,11 @@ subprojects {
         testImplementation 'org.junit.jupiter:junit-jupiter'
     }
 
+    // ✅ Important: explicitly set annotation processor path
+    tasks.withType(JavaCompile) {
+        options.annotationProcessorPath = configurations.annotationProcessor
+    }
+
     test {
         useJUnitPlatform()
     }
