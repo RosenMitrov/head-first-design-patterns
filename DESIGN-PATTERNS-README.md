@@ -7,3 +7,4 @@ This project demonstrates multiple design patterns in Java.
 - [Strategy Pattern](strategy-pattern/STRATEGY-PATTERN-README.md)
 - [Observer Pattern](observer-pattern/OBSERVER-PATTERN-README.md)
 - [Decorator Pattern](decorator-pattern/DECORATOR-PATTERN-README.md)
+- [Factory Pattern](factory-pattern/FACTORY-PATTERN-README.md)
