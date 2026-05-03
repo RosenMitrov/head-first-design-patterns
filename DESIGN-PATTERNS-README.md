@@ -9,3 +9,4 @@ This project demonstrates multiple design patterns in Java.
 - [Decorator Pattern](decorator-pattern/DECORATOR-PATTERN-README.md)
 - [Factory Pattern](factory-pattern/FACTORY-PATTERN-README.md)
 - [Singleton Pattern](singleton-pattern/SINGLETON-PATTERN-README.md)
+- [Command Pattern](command-pattern/COMMAND-PATTERN-README.md)
