@@ -10,3 +10,4 @@ This project demonstrates multiple design patterns in Java.
 - [Factory Pattern](factory-pattern/FACTORY-PATTERN-README.md)
 - [Singleton Pattern](singleton-pattern/SINGLETON-PATTERN-README.md)
 - [Command Pattern](command-pattern/COMMAND-PATTERN-README.md)
+- [Adapter nad Facade Pattern](adapter-and-facade-pattern/ADAPTER-AND-FACADE-PATTERN-README.md)
